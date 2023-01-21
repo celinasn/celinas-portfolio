@@ -376,15 +376,15 @@ header h2 {
 }
 
 .project-link {
-  background-color: #E9B14C;
+  background-color: #453E4F;
   padding: .75rem 3.75rem;
   border-radius: 30px;
   color: #FFFFFF;
 }
 
 .project-link:hover {
-  background-color: #F8D697;
-  color: #E9B14C;
+  background-color: #CAC4D1;
+  color: #453E4F;
 }
 
 #skills {
